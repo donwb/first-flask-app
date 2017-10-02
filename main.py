@@ -49,6 +49,7 @@ def not_found(error):
 
 
 # set this envvar
+
 # export FLASK_APP=main.py
 # enables reload on save and debug info
 # export FLASK_DEBUG=1
